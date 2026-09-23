@@ -1,6 +1,6 @@
 # Ongoing...
 
-# PRAJNA — Universal Agentic Search Assistant
+# PRAJNA — Agentic Search Assistant
 
 > **Search less. Understand more. Act with evidence.**
 
